@@ -1,0 +1,28 @@
+
+.products {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin-bottom: 60px;
+}
+
+.product{
+    padding: 0.5em;
+    margin: 2.5em;
+    border-radius: 0.5em;
+    background-color:  #C8FA70;
+    width: 24em;
+}
+
+.img{
+width: 40px;
+}
+
+.nombre{
+    font-size: 16px;
+}
+
+.libros{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

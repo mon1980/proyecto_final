@@ -1,0 +1,20 @@
+
+.precios{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+ 
+}
+
+
+.precio{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5em;
+  margin: 0.5em;
+  border-radius: 0.5em;
+  background-color: #C8FA70;
+  width: 24em;
+
+}

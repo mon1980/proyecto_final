@@ -1,0 +1,16 @@
+.users {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.user{
+
+    padding: 0.5em;
+    margin: 2.5em;
+    padding-top: 12px;
+    border-radius: 0.5em;
+    width: 15em;
+    border: 1px solid black;
+  
+}

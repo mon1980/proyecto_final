@@ -1,0 +1,35 @@
+
+.activities {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 60px;
+}
+
+.activity{
+
+    padding: 2.5em;
+    margin: 2.5em;
+    padding-top: 12px;
+    border-radius: 0.5em;
+    background-color: #C8FA70;
+    width: 32em;
+    height: 36em;
+}
+
+
+.descripcion{
+margin-bottom: 15px;
+padding-top:10px;
+font-size: 15px;
+}
+
+.titulo{
+font-size: 18px;
+}
+
+.tituloTalleres{
+    margin-top: 15px;
+
+
+}

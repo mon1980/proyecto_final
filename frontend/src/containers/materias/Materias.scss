@@ -1,0 +1,28 @@
+
+.categories {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin-bottom: 60px;
+}
+
+.category{
+    padding: 1.5em;
+    margin: 2.5em;
+    border-radius: 0.5em;
+    background-color:  #C8FA70;
+    width: 26em;
+}
+
+.img{
+width: 20px;
+}
+
+.nombre{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.materias{
+    margin-top: 10px;
+}

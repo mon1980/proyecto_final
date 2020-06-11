@@ -1,0 +1,37 @@
+.fondo{
+width: 100%;
+opacity: 0.8;
+
+}
+
+.homeContainer{
+    position: relative;
+    text-align: center;
+}
+ 
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #FAE898;
+    width: 54%;
+    opacity: 0.9;
+    border-radius: 40px;
+    font-size: 16px;
+    margin-top: 40px;
+    padding-left: 30px;
+    padding-right:20px;
+    
+    
+}
+
+.tituloDinosaurios{
+
+    color: orange;
+    font-size: 30px;
+    padding-top: 18px;
+
+
+
+
+}

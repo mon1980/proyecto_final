@@ -1,0 +1,22 @@
+@import '../../../colors.scss';
+.commentListContainer {
+    padding: 1.5em;
+    .comment {
+        display: flex;
+        padding: 1em;
+        margin: 0.5em;
+        background-color: #84C24B;
+        color: $Talco;
+        min-height: 10vh;
+        border-radius: 0.3em;
+    }
+    textarea {
+        all: unset;
+        border-radius: 0.3em;
+        border: solid #84C24B;
+        width: 90%;
+    }
+    img{
+        opacity: 0.4;
+    }
+}

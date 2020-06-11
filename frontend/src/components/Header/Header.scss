@@ -1,0 +1,71 @@
+@import '../../colors.scss';
+
+.header {
+    background-color: green;
+    padding: 1.5em;
+    display: flex;
+    justify-content: flex-start;
+
+   
+ 
+    a {
+        all: unset;
+        cursor: pointer;
+        padding: 0.8em;
+        font-size: 1.3em;
+        color: white;
+        &:hover {
+            background-color: #E5D730;
+            color: black;
+            height: 28px;
+        }
+    }
+
+    }
+    .logo{
+        width: 4.8em;
+        margin-right: 20px;
+    }
+
+    .logout{
+        color: black;
+        cursor: pointer;
+        height: 34px;
+        margin-top: 14px;
+        margin-left: 10px;
+    }
+
+    .logout:hover{
+
+        background-color: #E5D730;
+        border: 1px solid black;
+    }
+    
+
+    .guestZone{
+        display:flex;
+        justify-content: center;
+        margin-left: 40px;
+    }
+
+    .userZone{
+        display:flex;
+        justify-content: center;
+        margin-left: 40px;
+    }
+
+    .userAdmin{
+
+        display:flex;
+        justify-content: center;
+        margin-left: 40px;
+    }
+
+   
+ 
+      
+
+
+    
+  
+    
